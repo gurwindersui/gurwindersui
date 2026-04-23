@@ -8,11 +8,11 @@ Blockchain: Sui 💧
 
 | № | Project       | Category       | Vulnerabilities | Report | Language |
 |--|--------------|---------------|----------------|--------|----------|
-| 1 | Private (NDA) | AMM            | 1Crit          | NDA    | Move     |
-| 2 | Private (NDA) | DEX            | 2H             | NDA    | Move     |
-| 3 | Private (NDA) | Liquid Staking | 1H             | NDA    | Move     |
-| 4 | Private (NDA) | CDP            | 1L             | NDA    | Move     |
-| 5 | Private (NDA) | Lending        | 2H             | NDA    | Move     |
+| 1 | Private  | AMM            | 1Crit          | NDA    | Move     |
+| 2 | Private  | DEX            | 2H             | NDA    | Move     |
+| 3 | Private  | Liquid Staking | 1H             | NDA    | Move     |
+| 4 | Private  | CDP            | 1L             | NDA    | Move     |
+| 5 | Private  | Lending        | 2H             | NDA    | Move     |
 
 ---
 
