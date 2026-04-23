@@ -4,7 +4,7 @@ I am a security researcher.
 Blockchain: Sui 💧
 
 ##  Private 
-NDA Bounties
+
 
 | № | Project       | Category       | Vulnerabilities | Report | Language |
 |--|--------------|---------------|----------------|--------|----------|
