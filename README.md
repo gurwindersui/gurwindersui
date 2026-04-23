@@ -6,6 +6,8 @@ I am a security researcher.
 
 Blockchain: Sui 💧
 
+X account = https://x.com/gurwinder_sui
+
 ##  Private Bounties
 
 
