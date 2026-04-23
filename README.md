@@ -3,7 +3,7 @@
 I am a security researcher.
 Blockchain: Sui 💧
 
-##  Private 
+##  Private Bounties
 
 
 | № | Project       | Category       | Vulnerabilities | Report | Language |
