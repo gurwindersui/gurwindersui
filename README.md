@@ -1,9 +1,7 @@
 
 
-i am security reseracher 
-
-
-Blockhain = Sui
+I am a security researcher.
+Blockchain: Sui 💧
 
 ##  Private 
 NDA Bounties
