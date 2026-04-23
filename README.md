@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**gurwindersui/gurwindersui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+i am security reseracher and sui (blockchain)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Private NDA Bounties
+
+| № | Project       | Category       | Vulnerabilities | Report | Language |
+|--|--------------|---------------|----------------|--------|----------|
+| 1 | Private (NDA) | AMM            | 1Crit          | NDA    | Move     |
+| 2 | Private (NDA) | DEX            | 2H             | NDA    | Move     |
+| 3 | Private (NDA) | Liquid Staking | 1H             | NDA    | Move     |
+| 4 | Private (NDA) | CDP            | 1L             | NDA    | Move     |
+| 5 | Private (NDA) | Lending        | 2H             | NDA    | Move     |
+
+---
+
+## Public Audit Contests
+
+| № | Project       | Category       | Findings              | Language |
+|--|--------------|---------------|----------------------|----------|
+| 1 | Aave (Aptos) | Lending (Move) | 1 Unique low, 1 Unique Info | Move     |
