@@ -16,7 +16,7 @@ X account = https://x.com/gurwinder_sui
 | 1 | Private  | AMM            | 1Crit          | NDA    | Move     |
 | 2 | Private  | DEX            | 2H             | NDA    | Move     |
 | 3 | Private  | Liquid Staking | 1H             | NDA    | Move     |
-| 4 | Private  | CDP            | 1L             | NDA    | Move     |
+| 4 | Private  | CDP            | Private        | NDA    | Move     |
 | 5 | Private  | Lending        | 2H             | NDA    | Move     |
 
 ---
