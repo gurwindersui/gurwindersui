@@ -23,6 +23,6 @@ X account = https://x.com/gurwinder_sui
 
 ## Public Audit Contests
 
-| № | Project       | Category       | Findings              | Language |
-|--|--------------|---------------|----------------------|----------|
-| 1 | 2025 Aave (Aptos) | Lending (Move) | 1 Unique , 1 Unique  | Move     |
+| № | Project            | Category       | Findings              | Language |
+|--|--------------       |--------------- |---------------------- |----------|
+| 1 | 2025 Aave protocol | Lending (Move) | 1 Unique , 1 Unique   | Move     |
