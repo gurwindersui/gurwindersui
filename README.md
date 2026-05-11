@@ -25,4 +25,4 @@ X account = https://x.com/gurwinder_sui
 
 | № | Project       | Category       | Findings              | Language |
 |--|--------------|---------------|----------------------|----------|
-| 1 | Aave (Aptos) | Lending (Move) | 1 Unique , 1 Unique  | Move     |
+| 1 | 2025 Aave (Aptos) | Lending (Move) | 1 Unique , 1 Unique  | Move     |
