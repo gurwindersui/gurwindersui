@@ -1,7 +1,7 @@
 
 
 I am a security researcher and 
-specializating in sui smart contracts 
+specializing in sui smart contracts 
 
 
 
