@@ -1,10 +1,11 @@
 
 
-I am a security researcher.
+I am a security researcher and 
+specializating in sui smart contracts 
 
 
 
-Blockchain: Sui 💧
+
 
 X account = https://x.com/gurwinder_sui
 
