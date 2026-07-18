@@ -1,13 +1,13 @@
 
 
-I am a security researcher and 
-specializing in sui smart contracts 
+ security researcher 
 
 
 
 
 
-X account = https://x.com/gurwinder_sui
+
+
 
 ##  Private Bounties
 
@@ -16,9 +16,6 @@ X account = https://x.com/gurwinder_sui
 | - | ------- | --------------- | ------ | ---------- |
 | 1 | $50M    | 1 Crit          | NDA    | Sui (Move) |
 | 2 | $5.2M   | 2 H             | NDA    | Sui (Move) |
-| 3 | $1.3M   | 1 H             | NDA    | Sui (Move) |
-| 4 | Private | Private         | NDA    | Sui (Move) |
-| 5 | $4M     | 2 H             | NDA    | Sui (Move) |
 
 ---
 
