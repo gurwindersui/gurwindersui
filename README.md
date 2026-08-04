@@ -21,6 +21,13 @@
 
 ## Public Audit Contests
 
-| № | Project       | TVL   | Findings           | Language |
-| - | ------------- | ----- | ------------------ | -------- |
-| 1 | Aave Protocol | $10B+ | 1 Unique, 1 Unique | Move     |
+## Public Audit Contests
+
+## Public Audit Contests
+
+|  № | Project          |   TVL | Findings          | Language |
+| -: | ---------------- | ----: | ----------------- | -------- |
+|  1 | Aave Protocol    | $10B+ | 2 Unique Findings | Move     |
+|  2 | Bluefin Protocol | $90M+ | Pending           | Move     |
+
+
