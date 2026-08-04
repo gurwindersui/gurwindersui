@@ -1,6 +1,6 @@
 
 
-  Move security researcher  and dev
+  Sui Move security researcher  
 
 
 
